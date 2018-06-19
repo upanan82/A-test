@@ -1,0 +1,9 @@
+/* MessageComponent's private CSS styles */
+
+.message {
+    margin-top: 50px;
+}
+
+.message button {
+    margin-bottom: 15px;
+}
